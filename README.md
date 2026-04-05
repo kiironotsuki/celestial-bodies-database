@@ -1,4 +1,3 @@
-# celestial-bodies-database
 # 🌌 Celestial Bodies Database
 
 A relational database model of the universe designed for the **freeCodeCamp Relational Database Certification**. This project demonstrates core competencies in **SQL**, **Schema Design**, and **Data Integrity**.
